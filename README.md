@@ -1,2 +1,2 @@
 # AIMLGeeks
-A self learning repository
+A self learning repository in machine learning and Artificial intelligence.
